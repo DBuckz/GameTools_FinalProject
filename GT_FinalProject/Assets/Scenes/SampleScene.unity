@@ -210,7 +210,7 @@ Transform:
   m_GameObject: {fileID: 562213302}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 35, y: 1, z: 35}
+  m_LocalScale: {x: 50, y: 1, z: 50}
   m_Children:
   - {fileID: 1812634979}
   m_Father: {fileID: 0}
@@ -233,8 +233,8 @@ MonoBehaviour:
   noiseRandom: 0
   pOffset: {x: 5, y: 10}
   noiseF: 10
-  gridX: 40
-  gridY: 40
+  gridX: 20
+  gridY: 20
   visualizeGrid: 0
   visualizationCube: {fileID: 0}
   visualizationHeightScale: 5
@@ -406,13 +406,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2, y: 8.13, z: -28.67}
+  m_LocalRotation: {x: -0, y: 0.34941182, z: -0, w: 0.9369693}
+  m_LocalPosition: {x: -14.23, y: 13.82, z: -19.94}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 40.903004, z: 0}
 --- !u!1 &1072816736
 GameObject:
   m_ObjectHideFlags: 0
@@ -423,6 +423,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1072816738}
   - component: {fileID: 1072816737}
+  - component: {fileID: 1072816739}
   m_Layer: 0
   m_Name: CityManager
   m_TagString: Untagged
@@ -459,6 +460,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1072816739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1072816736}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc45c0989ddb1724dbe0191d02e1ed99, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WallPrefab: {fileID: -927199367670048503, guid: f2c02913e36d48642a6facabc69578f5,
+    type: 3}
 --- !u!1 &1812634978
 GameObject:
   m_ObjectHideFlags: 0
@@ -506,6 +521,6 @@ MonoBehaviour:
   gZ: 3
   SpawnPrefab: {fileID: 8821622249349522583, guid: 3be39e8e147fe0c4581fca9ac20c75f3,
     type: 3}
-  GridStart: {x: -14, y: 0, z: -13}
-  gridDist: 10
+  GridStart: {x: -20, y: 0.5, z: -20}
+  gridDist: 15
   GenerateOn: 0

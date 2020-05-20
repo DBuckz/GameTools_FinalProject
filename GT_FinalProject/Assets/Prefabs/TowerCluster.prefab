@@ -43,10 +43,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d8427949b220a3c44ab2b1239658ffdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gX: 8
-  gZ: 8
+  gX: 6
+  gZ: 6
   SpawnPrefab: {fileID: 856562479808941309, guid: 045d9b740dd71d840a3d070000a443f5,
     type: 3}
   GridStart: {x: 0, y: 0, z: 0}
-  gridDist: 1
+  gridDist: 2
   GenerateOn: 1
