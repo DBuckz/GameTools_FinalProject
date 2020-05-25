@@ -48,17 +48,17 @@ MonoBehaviour:
   randomVariationMin: 0
   randomVariationMax: 0
   baseParts:
-  - {fileID: -927199367670048503, guid: a933db2129633ec448ce452f9a028786, type: 3}
-  - {fileID: -927199367670048503, guid: 230594a6b1591ea4784c7c7e111b6fbf, type: 3}
+  - {fileID: 6067523380587257696, guid: bdea9761d1e7e3a40ad4c0da3cfd9f85, type: 3}
+  - {fileID: 8788657704489725429, guid: 73b79554759e0974b9995592d55577d2, type: 3}
   - {fileID: -927199367670048503, guid: d2bb42ff40fb59049a64de6ccacd72ec, type: 3}
-  - {fileID: -927199367670048503, guid: 3918d17b7ccec1541824311b419455f9, type: 3}
+  - {fileID: 5802232139554357764, guid: f4b5495f4398b894293d7c4a290d2ea2, type: 3}
   middleParts:
-  - {fileID: -927199367670048503, guid: c0102311dbae18f48b600cb238f4bb93, type: 3}
-  - {fileID: -927199367670048503, guid: 34cb63f976a29d94ab537348e3372e68, type: 3}
-  - {fileID: -927199367670048503, guid: b5184e2f4ca2ac6448903ad31bd02299, type: 3}
-  - {fileID: -927199367670048503, guid: 655cbe8be59dcc14e959379411bc327f, type: 3}
+  - {fileID: 2375254136476914212, guid: 268144cf47c6f2448b95ccf6dfeef147, type: 3}
+  - {fileID: 2611549237973809599, guid: 04b2eaa681d9dbf4e9ce1026b43588d4, type: 3}
+  - {fileID: 7007402822194392072, guid: e4a7bc8426978494097e8b466895dbe6, type: 3}
+  - {fileID: 5195208079929572230, guid: fb481f03f26928142a74875210b3127b, type: 3}
   topParts:
-  - {fileID: -927199367670048503, guid: 6a85f02fc2c8c924ca7068ac4a94412a, type: 3}
-  - {fileID: -927199367670048503, guid: 203762631db0ccd4bbaf8b94c65fdbcf, type: 3}
-  - {fileID: -927199367670048503, guid: 15d4b57573cbfe747b6ec2ffef96d27a, type: 3}
-  - {fileID: -927199367670048503, guid: 88e693d6003d83049a24f2c286b5bd16, type: 3}
+  - {fileID: 1406302066643805189, guid: f7a4b08f03be67e44b60bffd0b31f1eb, type: 3}
+  - {fileID: 8480885875051043939, guid: 360932f2e655e9949b82b0764ce968c4, type: 3}
+  - {fileID: 9120785725196006933, guid: ffc1dcf87c585f14fb88ef10450973f9, type: 3}
+  - {fileID: 5490970080681603247, guid: 5e4ac28df2c4ea04ab95c3dd4b6cf9d3, type: 3}
