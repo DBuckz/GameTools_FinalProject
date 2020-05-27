@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxPieces: 12
-  perlinScaleFactor: 1
+  perlinScaleFactor: 0
   randomVariationMin: 0
   randomVariationMax: 0
   baseParts:
