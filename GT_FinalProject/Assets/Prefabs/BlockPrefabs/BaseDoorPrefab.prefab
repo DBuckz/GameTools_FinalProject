@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9015680771118270031}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: BaseDoorPrefab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,6 +121,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 230594a6b1591ea4784c7c7e111b6fbf,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 230594a6b1591ea4784c7c7e111b6fbf, type: 3}
